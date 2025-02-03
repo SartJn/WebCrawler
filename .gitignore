@@ -1,5 +1,7 @@
 *.log
-
+logs/
+data/
 temp/
 
 *.env
+webcrawler_bot\venv/*
